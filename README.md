@@ -32,7 +32,7 @@ You'll need to manually install the following JARs:
 Usage
 =====
 
-See [KloudlessTest.java](https://github.com/kloudless/kloudless-java/blob/master/test/java/com/kloudless/KloudlessTest.java) for more examples.
+See [KloudlessTest.java](https://github.com/Kloudless/kloudless-java/blob/master/test/com/kloudless/KloudlessTest.java) for more examples.
 
 Testing
 =======
